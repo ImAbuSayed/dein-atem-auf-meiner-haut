@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-atem-auf-meiner-haut/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dein Atem auf meiner Haut](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-atem-auf-meiner-haut/) |
+| **Get License** | [Commercial Licensing for Dein Atem auf meiner Haut](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-atem-auf-meiner-haut/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dein Atem auf meiner Haut, wir cruisen durch die Nacht
+> Die Scheiben sind getönt, ich hab' die Sterne mitgebracht
+> Gib mir nur einen Blick, ich geb' dir meine ganze Welt
+> Scheiß auf all die Andern, Babe, weil nur noch unsre Liebe zählt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
