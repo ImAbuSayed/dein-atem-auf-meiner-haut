@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-atem-auf-meiner-haut/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dein Atem auf meiner Haut](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-atem-auf-meiner-haut/) |
+| **Get License** | [Obtain a Music License for Dein Atem auf meiner Haut](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-atem-auf-meiner-haut/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f2edd08fe32563e0cfa812659f4c366a14a80834f35db530e9a3bab3136bcb83` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

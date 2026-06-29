@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dein Atem auf meiner Haut
+
+This log tracks the cryptographic history and versioning for the song **Dein Atem auf meiner Haut** (dein-atem-auf-meiner-haut).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T04:27:30.438223 | `v1` | `f2edd08fe32563e0cfa812659f4c366a14a80834f35db530e9a3bab3136bcb83` | `621d9673799b363e745e8c0a588203e45e744139de1fe156e867447284bc575c` | `2026-06-30_dein-atem-auf-meiner-haut-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
